@@ -3,5 +3,5 @@ def EX1_2(height, base):
     area= (base*height)/2
     return area
   else:
-    return ("error")
+    return "error"
 
