@@ -1,4 +1,10 @@
 def EX1_4(day):
+  '''
+  return the day of a week by giving numbers
+  ex:
+  >>> EX1_4(4):
+  Thursday
+  '''
   if day==1:
     return "Monday"
   elif day==2:
