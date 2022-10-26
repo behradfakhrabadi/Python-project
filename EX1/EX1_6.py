@@ -1,4 +1,10 @@
 def EX1_6(roman):
+  '''
+  reurn the numbers in roman by taking them as int
+  ex:
+  >>>EX1_6(6):
+  VI
+  '''
   if roman==1:
     return "I"
   elif roman==2:
